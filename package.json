@@ -1,0 +1,17 @@
+{
+  "name": "TG_ElevenLabs_TTSV1",
+  "version": "1.0.0",
+  "description": "Telegram Text-to-Speech Bot using ElevenLabs API",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "node-telegram-bot-api": "^0.66.0",
+    "uuid": "^10.0.0"
+  },
+  "author": "R3XBASE",
+  "license": "MIT"
+}

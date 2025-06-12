@@ -1,0 +1,11 @@
+# File konfigurasi rahasia
+config.py
+token.txt
+.env
+
+# File Python cache
+*.pyc
+__pycache__/
+
+# File log
+*.log
